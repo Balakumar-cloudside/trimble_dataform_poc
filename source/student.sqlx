@@ -1,6 +1,0 @@
-config {
-  type: "declaration",
-  database: "cloudside-academy",
-  schema: "bala_db",
-  name: "student1"
-}
