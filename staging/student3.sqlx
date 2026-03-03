@@ -1,0 +1,9 @@
+config {
+  type: "table",
+  database: "cloudside-academy",
+  schema: "bala_db",
+  name: "student3"
+}
+
+SELECT *
+FROM ${ref("student1")}
